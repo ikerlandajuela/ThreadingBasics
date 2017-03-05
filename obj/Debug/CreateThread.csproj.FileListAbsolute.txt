@@ -1,0 +1,5 @@
+C:\Users\i.landajuela\Google Drive\Departamento Informática\src\c#\vs2012pro\ThreadingBasics\ThreadingBasics\bin\Debug\ThreadingBasics.exe.config
+C:\Users\i.landajuela\Google Drive\Departamento Informática\src\c#\vs2012pro\ThreadingBasics\ThreadingBasics\bin\Debug\ThreadingBasics.exe
+C:\Users\i.landajuela\Google Drive\Departamento Informática\src\c#\vs2012pro\ThreadingBasics\ThreadingBasics\bin\Debug\ThreadingBasics.pdb
+C:\Users\i.landajuela\Google Drive\Departamento Informática\src\c#\vs2012pro\ThreadingBasics\ThreadingBasics\obj\Debug\ThreadingBasics.exe
+C:\Users\i.landajuela\Google Drive\Departamento Informática\src\c#\vs2012pro\ThreadingBasics\ThreadingBasics\obj\Debug\ThreadingBasics.pdb
